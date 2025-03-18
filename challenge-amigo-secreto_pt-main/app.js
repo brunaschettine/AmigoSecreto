@@ -1,4 +1,3 @@
-//O principal objetivo deste desafio é fortalecer suas habilidades em lógica de programação. Aqui você deverá desenvolver a lógica para resolver o problema.
 let amigos = [];
 
 function adicionarAmigo() {
@@ -40,7 +39,6 @@ return;
 let sorteio = [...amigos];
 let resultadoFinal = [];
 
-// Tentando gerar um sorteio sem pares inválidos (alguém tirar a si mesmo)
 let tentativa = 0;
 let sucesso = false;
 
